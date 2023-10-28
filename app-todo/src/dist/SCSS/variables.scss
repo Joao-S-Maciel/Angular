@@ -1,0 +1,15 @@
+$primary-color: #AF7EEB;
+$secondary-color: #939CBD;
+$tertiary-color: #FFFFFF;
+$quaternary-color:#1976d2;
+
+$primary-background-color: #E3E9FF;
+$secondary-background-color: $tertiary-color;
+$tertiary-background-color: $primary-color;
+$quaternary-background-color: $quaternary-color;
+
+$primary-text-color: $secondary-color;
+$secondary-text-color: $tertiary-color;
+$quaternary-text-color: $quaternary-color;
+
+$danger-color: #FF002E;
